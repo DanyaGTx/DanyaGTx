@@ -12,14 +12,14 @@
 ### HTML
 - Strong knowledge of HTML;
 - I have an understanding of semantic layout;
-- I use HTML tags according to their semantics.
-- I can do responsive templates
+- I use HTML tags according to their semantics;
+- I can do responsive templates;
 
 ### CSS
 - I am able to create adaptive layout using media expressions;
 - I prefer flexbox layout, I can also use grid;
-- I know the basic principles of BEM methodology.
-- Have experience with the Sass preprocessor
+- I know the basic principles of BEM methodology;
+- Have experience with the Sass preprocessor;
 
 ### JavaScript 
 - I know the basic JS data structures;
@@ -31,6 +31,7 @@
 - I can create individual pages using React Router;
 - I can manage the state of components using React Hooks;
 - Understanding how Virtual DOM works;
+- Ability to work with class and functional components;
 
 ### Git
 - I know the basic git commands;
