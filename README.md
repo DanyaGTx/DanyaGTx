@@ -31,6 +31,7 @@
 - I can manage the state of components using React Hooks;
 - Understanding how Virtual DOM works;
 - Ability to work with class and functional components;
+- Have experience working with Axios;
 
 ### Git
 - I know the basic git commands;
