@@ -29,7 +29,7 @@
 - I can create applications using Create React App;
 - I can create individual pages using React Router;
 - I can manage the state of components using React Hooks;
-- Understanding how Virtual DOM works;
+- Understanding how React and Virtual DOM works;
 - Ability to work with class and functional components;
 - Have experience working with Axios;
 - Worked a little with redux-thunk;
