@@ -18,7 +18,7 @@
 - I am able to create adaptive layout using media expressions;
 - I prefer flexbox layout, I can also use grid;
 - I know the basic principles of BEM methodology;
-- Have experience with the Sass preprocessor;
+- Have experience with the SASS && SCSS preprocessor;
 
 ### JavaScript 
 - I know the basic JS data structures;
