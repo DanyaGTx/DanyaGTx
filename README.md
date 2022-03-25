@@ -1,5 +1,5 @@
 ### Hi, I'm Danila 👋
-<p>I am a beginner Frontend developer.I am a very hardworking and purposeful person.I've been developing for about a year.I'll be ready to complete a test task to demonstrate the level of skills.</p>
+<p>I am a beginner Frontend developer.I am a very hardworking and purposeful person.I've been developing for about a year.
 ## 🛠 Skills
 
 ### HTML
@@ -27,15 +27,6 @@
 
 ### Git
 - I know the basic git commands;
-
-### My opensource projects
-
-*   [Yoga](https://github.com/DanyaGTx/NixPractice/tree/main/Yoga) - This Responsive Template was built for IT company in Ukraine "NixSolutions"
-*   [Mercedez-Benz-template](https://github.com/DanyaGTx/Mercedez-Benz-template) - Resposnive template that was created for the presentation of a new car model
-*   [React-todoList](https://github.com/javarushcommunity/javarush-telegrambot) - A simple todo list created on React Hooks
-
-### Tools
-I use Windows 10 as a working OS. I have experience using Figma and Adobe Photoshop to work with design layouts. I use the Visual Studio Code editor with various plugins
 
 ### Contacts
 📫 How to reach me: <a href='mailto:raxub007@gmail.com'>raxub007@gmail.com</a>
