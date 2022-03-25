@@ -13,7 +13,6 @@
 - Strong knowledge of HTML;
 - I have an understanding of semantic layout;
 - I use HTML tags according to their semantics;
-- I can do responsive templates;
 
 ### CSS
 - I am able to create adaptive layout using media expressions;
