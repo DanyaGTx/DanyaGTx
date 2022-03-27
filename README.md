@@ -37,6 +37,17 @@
 ### Git
 - I know the basic git commands;
 
+### Work Experience
+# Trainee Frontend Developer
+2020 - 2021  (6 month)
+Company: Web Syndicate
+I did an internship, created adaptive templates
+
+# Junior React Developer
+2021  (3 month)
+Company: Nix Solutions
+I worked with JS and React for 3 month
+
 ### My opensource projects
 
 *   [Yoga](https://github.com/DanyaGTx/NixPractice/tree/main/Yoga) - This Responsive Template was built for IT company in Ukraine "NixSolutions"
