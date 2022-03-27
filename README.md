@@ -38,12 +38,12 @@
 - I know the basic git commands;
 
 ### Work Experience
-# Trainee Frontend Developer
+#### Trainee Frontend Developer
 2020 - 2021  (6 month)
 Company: Web Syndicate
 I did an internship, created adaptive templates
 
-# Junior React Developer
+#### Junior React Developer
 2021  (3 month)
 Company: Nix Solutions
 I worked with JS and React for 3 month
