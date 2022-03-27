@@ -39,13 +39,13 @@
 
 ### Work Experience
 #### Trainee Frontend Developer
-2020 - 2021  (6 month)
-Company: Web Syndicate
-I did an internship, created adaptive templates
+2020 - 2021  (6 month) <br/>
+Company: Web Syndicate <br/>
+I did an internship, created adaptive templates 
 
 #### Junior React Developer
-2021  (3 month)
-Company: Nix Solutions
+2021  (3 month) <br/>
+Company: Nix Solutions <br/>
 I worked with JS and React for 3 month
 
 ### My opensource projects
