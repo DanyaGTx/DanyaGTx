@@ -31,7 +31,7 @@
 - I can manage the state of components using React Hooks;
 - Understanding how React and Virtual DOM works;
 - Ability to work with class and functional components;
-- Have experience working with Axios;
+- Have experience working with Axios and REST API;
 - Worked a little with redux-thunk;
 
 ### Git
