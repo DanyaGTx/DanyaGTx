@@ -49,7 +49,7 @@ templates
 Company: KitelyTech <br/>
 I was an intern, and my responsibilities
 included developing components on
-React
+React.
 Also, getting data from the API and
 rendering
 
