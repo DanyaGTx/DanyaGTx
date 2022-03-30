@@ -39,7 +39,7 @@
 
 ### Work Experience
 #### HTML Template Maker
-2020 - 2021  (4 month) <br/>
+2021  (4 month) <br/>
 Company: BRIGHTS <br/>
 My duties included the development of
 templates
