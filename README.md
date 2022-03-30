@@ -38,15 +38,20 @@
 - I know the basic git commands;
 
 ### Work Experience
-#### Trainee Frontend Developer
-2020 - 2021  (6 month) <br/>
-Company: Web Syndicate <br/>
-I did an internship, created adaptive templates 
+#### HTML Template Maker
+2020 - 2021  (4 month) <br/>
+Company: BRIGHTS <br/>
+My duties included the development of
+templates
 
-#### Junior React Developer
-2021  (3 month) <br/>
-Company: Nix Solutions <br/>
-I worked with JS and React for 3 month
+#### Trainee Frontend Developer
+2021  (6 month) <br/>
+Company: KitelyTech <br/>
+I was an intern, and my responsibilities
+included developing components on
+React
+Also, getting data from the API and
+rendering
 
 ### My opensource projects
 
