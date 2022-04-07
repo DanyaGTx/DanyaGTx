@@ -58,6 +58,7 @@ rendering
 *   [Yoga](https://github.com/DanyaGTx/NixPractice/tree/main/Yoga) - This Responsive Template was built for IT company in Ukraine "NixSolutions"
 *   [Mercedez-Benz-template](https://github.com/DanyaGTx/Mercedez-Benz-template) - Resposnive template that was created for the presentation of a new car model
 *   [React-todoList](https://github.com/javarushcommunity/javarush-telegrambot) - A simple todo list created on React Hooks
+*   [react-authentication-with-firebase](https://github.com/DanyaGTx/react-authentication-with-firebase) - React Authorization with firebase
 
 ### Tools
 I use Windows 10 as a working OS. I have experience using Figma and Adobe Photoshop to work with design layouts. I use the Visual Studio Code editor with various plugins
