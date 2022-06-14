@@ -43,10 +43,8 @@
 2021  (3 month) <br/>
 Company: eCommercers<br/>
 I was an intern, and my responsibilities
-included developing components on
-React.
-Also, getting data from the API and
-rendering
+included developing pages on Magento 2
+Also, creating HTML templates
 
 ### My opensource projects
 
