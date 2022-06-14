@@ -32,7 +32,7 @@
 - Understanding how React and Virtual DOM works;
 - Ability to work with class and functional components;
 - Have experience working with Axios and REST API;
-- Worked a little with redux-thunk;
+- Worked with redux-thunk;
 
 ### Git
 - I know the basic git commands;
