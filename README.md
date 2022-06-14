@@ -40,7 +40,7 @@
 ### Work Experience
 
 #### Trainee Frontend Developer
-2021  (3 month) <br/>
+2022  (3 month) <br/>
 Company: eCommercers<br/>
 I was an intern, and my responsibilities
 included developing pages on Magento 2 <br/>
