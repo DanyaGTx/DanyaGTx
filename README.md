@@ -25,7 +25,7 @@
 - I know how to work with asynchronous functions;
 - I use modern features of ECMAScript 2015+.
 
-### React
+### ReactJS + REDUX && ReduxToolkit
 - I can create applications using Create React App;
 - I can create individual pages using React Router;
 - I can manage the state of components using React Hooks;
