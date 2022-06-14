@@ -38,15 +38,10 @@
 - I know the basic git commands;
 
 ### Work Experience
-#### HTML Template Maker
-2021  (4 month) <br/>
-Company: BRIGHTS <br/>
-My duties included the development of
-templates
 
 #### Trainee Frontend Developer
-2021  (6 month) <br/>
-Company: KitelyTech <br/>
+2021  (3 month) <br/>
+Company: eCommercers<br/>
 I was an intern, and my responsibilities
 included developing components on
 React.
