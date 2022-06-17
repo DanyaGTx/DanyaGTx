@@ -54,7 +54,7 @@ Also, creating HTML templates
 *  [Mercedez-Benz-template](https://danyagtx.github.io/Mercedez-Benz-template.github.io/) - Resposnive template that was created for the presentation of a new car model
 *  [React-todoList](https://codesandbox.io/s/github/DanyaGTx/React-todo-onHooks) - A simple todo list created on React Hooks
 *  [react-authentication-with-firebase](https://codesandbox.io/s/agitated-taussig-n4gdrv) - React Authorization with firebase
-*  
+
 
 ### Tools
 I use Windows 10 as a working OS. I have experience using Figma and Adobe Photoshop to work with design layouts. I use the Visual Studio Code editor with various plugins
