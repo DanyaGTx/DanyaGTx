@@ -47,7 +47,7 @@ included developing pages on Magento 2 <br/>
 Also, creating HTML templates
 
 ### My opensource projects
-
+*  [Game platform](https://react-game-market-platform-9s1orjbbv-danyagtx.vercel.app) - This is a game platform on React for buying video games
 *  [Bmx Store](https://react-ecommerce-bmx-shop.vercel.app/main) - This is my pet project with bikes.It was built with ReactJS.  
 *  [Yoga](https://danyagtx.github.io/Yoga-template.github.io/) - This Responsive Template was built for IT company in Ukraine "NixSolutions"
 *  [Weather app](https://react-weather-forecast-app-two.vercel.app/) - React application to get weather of different cities
