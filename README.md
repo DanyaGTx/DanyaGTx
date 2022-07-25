@@ -1,5 +1,5 @@
 ### Hi, I'm Danila 👋
-<p>I am a beginner Frontend developer.I am a very hardworking and purposeful person.I've been developing for about a year.I'll be ready to complete a test task to demonstrate the level of skills.</p>
+<p>I am a Frontend developer.I am a very hardworking and purposeful person.I've been developing for about a year.I'll be ready to complete a test task to demonstrate the level of skills.</p>
 
 
 <p align='left'>
