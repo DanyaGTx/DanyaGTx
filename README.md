@@ -25,14 +25,11 @@
 - I know how to work with asynchronous functions;
 - I use modern features of ECMAScript 2015+.
 
-### ReactJS + REDUX && ReduxToolkit
-- I can create applications using Create React App;
-- I can create individual pages using React Router;
-- I can manage the state of components using React Hooks;
-- Understanding how React and Virtual DOM works;
-- Ability to work with class and functional components;
+### Vue
+- I can create applications using Vue;
+- Understanding how Vue and Virtual DOM works;
 - Have experience working with Axios and REST API;
-- Worked with redux-thunk;
+- I know about different stores to manage data such as VueX/Pinia;
 
 ### Git
 - I know the basic git commands;
@@ -45,6 +42,18 @@ Company: eCommercers<br/>
 I was an intern, and my responsibilities
 included developing pages on Magento 2 <br/>
 Also, creating HTML templates
+
+#### Junior Frontend Developer
+2023  (1 year) <br/>
+Company: Gotoinc<br/>
+- Taking an active part in the developing
+of Vue.js applications
+
+- Development of adaptive layouts,
+including RTL directions
+
+
+
 
 ### My opensource projects
 *  [Game Market](https://react-game-market-platform-9s1orjbbv-danyagtx.vercel.app) - This is a game platform on React for buying video games
