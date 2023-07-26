@@ -56,13 +56,8 @@ including RTL directions
 
 
 ### My opensource projects
-*  [Game Market](https://react-game-market-platform-9s1orjbbv-danyagtx.vercel.app) - This is a game platform on React for buying video games
-*  [Bmx Store](https://react-ecommerce-bmx-shop.vercel.app/main) - This is my pet project with bikes.It was built with ReactJS.  
-*  [Yoga](https://danyagtx.github.io/Yoga-template.github.io/) - This Responsive Template was built for IT company in Ukraine "NixSolutions"
-*  [Weather app](https://react-weather-forecast-app-two.vercel.app/) - React application to get weather of different cities
-*  [Mercedez-Benz-template](https://danyagtx.github.io/Mercedez-Benz-template.github.io/) - Resposnive template that was created for the presentation of a new car model
-*  [React-todoList](https://codesandbox.io/s/github/DanyaGTx/React-todo-onHooks) - A simple todo list created on React Hooks
-*  [react-authentication-with-firebase](https://codesandbox.io/s/agitated-taussig-n4gdrv) - React Authorization with firebase
+*  [Projects]([https://react-game-market-platform-9s1orjbbv-danyagtx.vercel.app](https://github.com/DanyaGTx/portfolio))
+
 
 
 ### Tools
