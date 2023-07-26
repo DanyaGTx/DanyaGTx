@@ -56,7 +56,7 @@ including RTL directions
 
 
 ### My opensource projects
-*  [Projects](https://github.com/DanyaGTx/portfolio])
+*  [Projects](https://danylo-rakhubvoskyi-portfolio.vercel.app/)
 
 
 
