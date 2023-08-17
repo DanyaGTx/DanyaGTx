@@ -7,33 +7,6 @@
         <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanyaGTx&layout=compact"/></a>
 </p>
 
-## 🛠 Skills
-
-### HTML
-- Strong knowledge of HTML;
-- I have an understanding of semantic layout;
-- I use HTML tags according to their semantics;
-
-### CSS
-- I am able to create adaptive layout using media expressions;
-- I prefer flexbox layout, I can also use grid;
-- I know the basic principles of BEM methodology;
-- Have experience with the Sass && SCSS preprocessor;
-
-### JavaScript 
-- I know the basic JS data structures;
-- I know how to work with asynchronous functions;
-- I use modern features of ECMAScript 2015+.
-
-### Vue
-- I can create applications using Vue;
-- Understanding how Vue and Virtual DOM works;
-- Have experience working with Axios and REST API;
-- I know about different stores to manage data such as VueX/Pinia;
-
-### Git
-- I know the basic git commands;
-
 ### Work Experience
 
 #### Trainee Frontend Developer
