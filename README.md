@@ -7,27 +7,6 @@
         <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanyaGTx&layout=compact"/></a>
 </p>
 
-### Work Experience
-
-#### Trainee Frontend Developer
-2022  (3 month) <br/>
-Company: eCommercers<br/>
-I was an intern, and my responsibilities
-included developing pages on Magento 2 <br/>
-Also, creating HTML templates
-
-#### Junior Frontend Developer
-2023  (1 year) <br/>
-Company: Gotoinc<br/>
-- Taking an active part in the developing
-of Vue.js applications
-
-- Development of adaptive layouts,
-including RTL directions
-
-
-
-
 ### My opensource projects
 *  [Projects](https://danylo-rakhubvoskyi-portfolio.vercel.app/)
 
