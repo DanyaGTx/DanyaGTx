@@ -16,5 +16,5 @@
 I use Windows 10 as a working OS. I have experience using Figma and Adobe Photoshop to work with design layouts. I use the Visual Studio Code editor with various plugins
 
 ### Contacts
-📫 How to reach me: <a href='mailto:raxub007@gmail.com'>raxub007@gmail.com</a>
+📫 How to reach me: <a href='mailto:d.rakhubovskyi@gmail.com'>d.rakhubovskyi@gmail.com</a>
 
